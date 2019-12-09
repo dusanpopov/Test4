@@ -21,7 +21,6 @@ button{
     cursor: pointer;
 }
 
-
 .truncate {
     text-overflow: ellipsis;
     overflow: hidden;
